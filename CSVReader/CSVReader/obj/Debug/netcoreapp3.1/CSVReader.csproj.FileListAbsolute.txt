@@ -12,4 +12,3 @@ C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.c
 C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.dll
 C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.pdb
 C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.genruntimeconfig.cache
-C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.csprojAssemblyReference.cache
