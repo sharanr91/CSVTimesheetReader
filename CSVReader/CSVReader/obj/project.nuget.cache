@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2cNbbITOWVsgclN+zsVbEGQ3vSseyOxTZ39L3EHw1CM21TgV1KkxaKPYIYt9Vat+oFfKm9PV60toBF1jX6AgXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\InsightInternal\\CSVReader\\CSVReader\\CSVReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sreddy\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

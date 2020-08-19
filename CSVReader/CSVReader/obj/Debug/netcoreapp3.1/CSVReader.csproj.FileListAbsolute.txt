@@ -1,0 +1,14 @@
+C:\Repos\InsightInternal\CSVReader\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.exe
+C:\Repos\InsightInternal\CSVReader\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.deps.json
+C:\Repos\InsightInternal\CSVReader\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.runtimeconfig.json
+C:\Repos\InsightInternal\CSVReader\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.runtimeconfig.dev.json
+C:\Repos\InsightInternal\CSVReader\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.dll
+C:\Repos\InsightInternal\CSVReader\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.pdb
+C:\Repos\InsightInternal\CSVReader\CSVReader\bin\Debug\netcoreapp3.1\LumenWorks.Framework.IO.dll
+C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.csproj.CoreCompileInputs.cache
+C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.AssemblyInfoInputs.cache
+C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.AssemblyInfo.cs
+C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.csproj.CopyComplete
+C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.dll
+C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.pdb
+C:\Repos\InsightInternal\CSVReader\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.genruntimeconfig.cache
