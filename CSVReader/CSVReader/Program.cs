@@ -41,7 +41,7 @@ namespace CSVReader
                 }
                 else
                 {
-                    var username = csvTable.Rows[i][1].ToString();
+                    var username = csvTable.Rows[i][1].ToString().Replace("Summary","");
                     var billableHours = csvTable.Rows[i][3].ToString();
                     var nonBillableHours = csvTable.Rows[i][4].ToString();
                     consultantTimesheetReportList.Add(new ConsultantTimesheetReport
