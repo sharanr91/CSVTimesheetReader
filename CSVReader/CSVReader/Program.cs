@@ -24,6 +24,7 @@ namespace CSVReader
             {
                 Console.WriteLine($"{i.ProjectName} {i.UserName} {i.BillableHours} {i.NonBillableHours} ");
             }
+            Console.ReadLine();
 
         }
 
